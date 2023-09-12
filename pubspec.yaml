@@ -1,0 +1,36 @@
+name: res
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/biriyani.jpeg
+    - assets/rice.jpg
+    - assets/ragiball.jpg
+    - assets/Idli.jpg
+    - assets/Dosa.jpg
+    - assets/fishfry.jpg
+    - assets/Pizza.jpg
+    - assets/Veg-Biryani.jpg
+    - assets/paneer.jpg
+    - assets/parota.jpg
+    - assets/Chow-Chow-Bath-Recipe.jpg
+    - assets/mushroomrice.jpg
+    - assets/gobi.jpg
+    - assets/poori.jpeg
+    - assets/chitranna.jpg
+    - assets/chapathi.jpg
